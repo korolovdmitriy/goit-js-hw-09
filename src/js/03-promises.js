@@ -19,7 +19,7 @@ function onSubmitClick (event) {
 function createPromise(position, delay) {
 
 return new Promise((resolve, reject) => {
-  const canFulfill = Math.random() > 0.5;
+  const canFulfill = Math.random() > 0.3;
 
   setTimeout(() => {
     if (canFulfill) {
