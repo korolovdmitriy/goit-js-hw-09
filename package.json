@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "browserslist": "^4.17.6",
-    "caniuse-lite": "^1.0.30001275"
+    "caniuse-lite": "^1.0.30001275",
+    "flatpickr": "^4.6.9",
+    "notiflix": "^3.1.0"
   }
 }
